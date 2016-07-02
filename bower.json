@@ -1,0 +1,30 @@
+{
+  "name": "nazreenwedsshabeer",
+  "description": "Nazreen and Shabeer are getting married!",
+  "main": "",
+  "authors": [
+    "Shabeer Mothi <shabeermothi@me.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Nazreen",
+    "Shabeer",
+    "wedding",
+    "marriage",
+    "engagement"
+  ],
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "homepage": "nazreenwedsshabeer.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ]
+}
