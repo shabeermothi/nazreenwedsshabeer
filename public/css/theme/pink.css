@@ -1,0 +1,190 @@
+/*---------------------------------------------------
+Pink stylesheet will overwrite the default stylesheet
+-----------------------------------------------------
+*/
+a { color: #fa4b74}
+.pink .banner-logo {
+    background: url(../../img/icon/main_logo.png) no-repeat center center;
+}
+.pink .timing .time_circles > div > span[style] {
+    color: #fa4b74;
+}
+.pink .timing .time_circles > div > h4 {
+    color: #ffffff;
+}
+.pink .nav-block,
+.pink .nav-block .navbar-default {
+    background: #fa4b74;
+}
+.pink .heading h3 {
+    color: #fa4b74;
+}
+.pink .heading h3::before {
+    content: url(../../../images/pink/pink_heading_left.png);
+}
+.pink .heading h3::after {
+    content: url(../../../images/pink/pink_heading_right.png);
+}
+.pink .thumb-img {
+    border-color: #fb809c;
+}
+.pink .couple {
+    background: url(../../../images/pink/pink_love_twist.png) no-repeat 50% 65%;
+}
+.pink #story .fa {
+    color: #e1704b;
+}
+.pink .love-sign {
+    background: url(../../../images/pink/pink_love.png) no-repeat center center;
+}
+.pink .timeline-head {
+    background: #fa4b74;
+}
+.pink .timeline-block-right:before {
+    border-color: transparent #fa4b74 transparent transparent;
+}
+.pink .reverse .timeline-block-right:after {
+    border-color: transparent transparent transparent #fa4b74;
+}
+.pink .timeline:before {
+    background: #fb809c;
+}
+.pink .contact .default-btn:hover {
+    background: #fa4b74;
+    color: #fff;
+}
+.pink .default-btn:hover {
+    background: #fa4b74;
+}
+.pink .profile h5 {
+    color: #fa4b74;
+}
+.pink .people .social-icon li .fa {
+    color: #fb809c;
+}
+.pink .event-body h5 a {
+    color:#FA4B74;
+}
+.pink .event-date {
+    background: #FA4B74;
+}
+.pink .event-year {
+    color: #f6f6f6;
+}
+.pink .gift-block:hover {
+    border-color: #fb809c;
+}
+.pink .blog-head h5 {
+    color: #f64b74;
+}
+.pink .blog-link {
+    color: #fa4b74;
+}
+.pink blockquote:before {
+    background: url(../../../images/pink/pink_block_qoute_left.png) no-repeat;
+}
+.pink blockquote:after {
+    background: url(../../../images/pink/pink_block_qoute_right.png) no-repeat;
+}
+.pink .contact h5 {
+    color: #fa4b74;
+}
+.pink .contact-address ul li .fa {
+    color: #fa4b74;
+}
+.pink .contact .form-control, .pink .contact textarea {
+    border:1px solid #fa4b74;
+}
+.pink .sbHolder {
+    border:1px solid #fa4b74;
+}
+.pink .footer-logo {
+    background: url(../../img/icon/pink_footer_logo.png) no-repeat center center;
+}
+.pink footer a .fa:hover {
+    background-color: #fa4b74;
+    border: 1px solid #fa4b74;
+}
+.pink .nav-pills > li.current > a {
+    color: #fa4b74;
+}
+.pink .sbToggle {
+    color: #fa4b74;
+}
+.pink .contact .default-btn {
+    border: 1px solid #fa4b74;
+    color: #fa4b74
+}
+.pink .next-arrow a {
+    color: #fa4b74
+}
+
+/** Blog Signle Page**/
+.pink .single-blog-upper h3 {
+    color: #fa4b74;
+}
+.pink .sidebar-single-post h5 {
+    color: #fa4b74;
+}
+.pink .popular-post h5:before, .pink .wedding-video h5:before {
+    background: #fa4b74;
+}
+
+.pink .single-blog-detail blockquote {
+    background: #FE89C5;
+}
+.pink .single-blog-detail blockquote:before {
+    background: url("../../../images/pink/pink_qoute_left.png") no-repeat center center;
+}
+.pink .single-blog-detail blockquote:after {
+    background: url("../../../images/pink/pink_qoute_right.png") no-repeat center center;
+}
+.pink .single-post-item li .fa {
+    background: #fa4b74;
+}
+.pink .single-blog-lower h4 {
+    color: #fa4b74;
+}
+.pink .single-blog-lower, .pink .comment-block, .pink .reply-block {
+    border-color: #fa4b74;
+}
+.pink .comment-block > h5, .pink .reply-block h5 {
+    color: #fa4b74;
+}
+.pink .comment-block .default-btn {
+    background: #FE89C5;
+    border: 1px solid #FE89C5;
+}
+.pink .comment-block .default-btn:hover {
+    color: #fa4b74;
+}
+
+/** Media Query **/
+
+@media screen and (max-width: 480px) {
+    .pink .banner-logo {
+        width: 260px;
+        height: 305px;
+        padding: 110px 0;
+        margin: 40px 0 32px;
+    }
+    .pink .banner-logo h2 {
+        font-size: 32px;
+    }
+    .pink .heading h3::after {
+        content: url(../../../images/pink/pink_heading_right_responsive.png);
+        width: 50px;
+        height: 23px;
+        right: -60px;
+    }
+    .pink .heading h3::before {
+        content: url(../../../images/pink/pink_heading_left_responsive.png);
+        width: 50px;
+        height: 23px;
+        left: -60px;
+    }
+
+}
+
+
+

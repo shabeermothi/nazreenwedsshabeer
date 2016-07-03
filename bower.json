@@ -26,5 +26,15 @@
     "public/components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery.sticky": "^1.0.0",
+    "bootstrap": "^3.3.6",
+    "smoothscroll": "^0.3.3",
+    "jquery.scrollTo": "^2.1.2",
+    "jquery.localScroll": "^1.4.0",
+    "jquery.selectbox": "*",
+    "jquery.placeholder": "^0.2.4",
+    "font-awesome": "^4.6.3"
+  }
 }
