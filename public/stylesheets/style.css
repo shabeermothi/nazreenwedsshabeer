@@ -457,21 +457,21 @@ ul, li {
 
 
 #background-carousel .item-no1 {
-  background: url(../../images/slider/slide-1.jpg) no-repeat;
+  background: url(../img/content/sunrise.jpeg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 #background-carousel .item-no2 {
-  background: url(../../images/slider/slide-2.jpg) no-repeat;
+  background: url(../img/content/bride/babe.jpeg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 #background-carousel .item-no3 {
-  background: url(../../images/slider/slide-3.jpg) no-repeat;
+  background: url(../img/content/groom/shabeer.jpeg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -511,7 +511,7 @@ ul, li {
 */
 .couple {
   padding: 100px 0;
-  background: url(../../images/icon/love_twist.png) no-repeat 50% 65%;
+  background: url(../img/content/2.jpg) no-repeat 50% 65%;
 }
 .thumbnail-block {
   position:relative;
