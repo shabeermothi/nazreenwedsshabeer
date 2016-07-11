@@ -232,13 +232,13 @@ ul, li {
   position: absolute;
   top: 5px;
   right: -85px;
-  content: url(../../images/icon/heading_rignt.png);
+  content: url(../img/heading_rignt.png);
   width: 75px;
   height: 35px;
 }
 .heading h3::before {
   position: absolute;
-  content: url(../../images/icon/heading_left.png);
+  content: url(../img/heading_left.png);
   width: 75px;
   height: 35px;
   top: 5px;
@@ -703,7 +703,7 @@ ul, li {
   background: #fafafa;
 }
 .love-sign {
-  background: url(../../images/icon/love.png) no-repeat center center;
+  background: url(../img/love.png) no-repeat center center;
   display: inline-block;
   position: absolute;
   top: -64px;
@@ -817,7 +817,7 @@ ul, li {
 */
 
 .rsvpLink {
-  background: url(../../images/bg/section_bg.jpg) no-repeat fixed center center;
+  background: url(../img/section_bg.jpg) no-repeat fixed center center;
 }
 .rsvpLink .color-overlay {
   background: rgba(0,0,0,.7);
@@ -1185,7 +1185,7 @@ ul, li {
 */
 
 .quote {
-  background: url(../../images/bg/quote_bg.jpg) no-repeat fixed center center;
+  background: url(../img/quote_bg.jpg) no-repeat fixed center center;
 }
 .quote .color-overlay {
   padding: 70px 0 60px;
@@ -1205,7 +1205,7 @@ blockquote:after {
   position: absolute;
   bottom: -28px;
   right: 20px;
-  background: url(../../images/icon/block_qoute_right.png) no-repeat;
+  background: url(../img/block_qoute_right.png) no-repeat;
   width: 50px;
   height: 40px;
 }
@@ -1214,7 +1214,7 @@ blockquote:before {
   position: absolute;
   top: -28px;
   left: 30px;
-  background: url(../../images/icon/block_qoute_left.png) no-repeat;
+  background: url(../img/block_qoute_left.png) no-repeat;
   width: 50px;
   height: 40px;
 }
@@ -1371,7 +1371,7 @@ input[type="submit"]:focus, input[type="submit"]:active {
 */
 
 .blog-bg {
-  background: url(../../images/bg/banner_bg.jpg) no-repeat fixed center top;
+  background: url(../img/banner_bg.jpg) no-repeat fixed center top;
   color: #fff;
   margin-top: 68px;
 }
@@ -1486,7 +1486,7 @@ input[type="submit"]:focus, input[type="submit"]:active {
 }
 .single-blog-detail blockquote:after {
   content: "";
-  background: url("../../images/icon/quote_right.png") no-repeat center center;
+  background: url("../img/quote_right.png") no-repeat center center;
   position: absolute;
   bottom: 35px;
   right: 35px;
@@ -1495,7 +1495,7 @@ input[type="submit"]:focus, input[type="submit"]:active {
 }
 .single-blog-detail blockquote:before {
   content: "";
-  background: url("../../images/icon/quote_left.png") no-repeat center center;
+  background: url("../img/quote_left.png") no-repeat center center;
   position: absolute;
   top: 40px;
   left: 45px;
@@ -1683,7 +1683,7 @@ ul.media-list + ul .media-object {
 */
 
 footer {
-  background: url(../../images/bg/section_bg.jpg) no-repeat fixed center center;
+  background: url(../img/section_bg.jpg) no-repeat fixed center center;
   text-align: center;
 }
 footer .color-overlay {
@@ -1699,7 +1699,7 @@ footer .color-overlay {
 }
 .footer-logo {
   display: inline-block;
-  background: url("../../images/icon/footer_logo.png") no-repeat center center;
+  background: url("../img/footer_logo.png") no-repeat center center;
   width: 303px;
   height: 128px;
   padding: 48px 0px;

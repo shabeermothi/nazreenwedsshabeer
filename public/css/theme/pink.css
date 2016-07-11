@@ -20,22 +20,22 @@ a { color: #fa4b74}
     color: #fa4b74;
 }
 .pink .heading h3::before {
-    content: url(../../../images/pink/pink_heading_left.png);
+    content: url(../../img/pink_heading_left.png);
 }
 .pink .heading h3::after {
-    content: url(../../../images/pink/pink_heading_right.png);
+    content: url(../../img/pink_heading_right.png);
 }
 .pink .thumb-img {
     border-color: #fb809c;
 }
 .pink .couple {
-    background: url(../../../images/pink/pink_love_twist.png) no-repeat 50% 65%;
+    background: url(../../img/pink_love_twist.png) no-repeat 50% 65%;
 }
 .pink #story .fa {
     color: #e1704b;
 }
 .pink .love-sign {
-    background: url(../../../images/pink/pink_love.png) no-repeat center center;
+    background: url(../../img/pink_love.png) no-repeat center center;
 }
 .pink .timeline-head {
     background: #fa4b74;
@@ -81,10 +81,10 @@ a { color: #fa4b74}
     color: #fa4b74;
 }
 .pink blockquote:before {
-    background: url(../../../images/pink/pink_block_qoute_left.png) no-repeat;
+    background: url(../../img/pink_block_qoute_left.png) no-repeat;
 }
 .pink blockquote:after {
-    background: url(../../../images/pink/pink_block_qoute_right.png) no-repeat;
+    background: url(../../img/pink_block_qoute_right.png) no-repeat;
 }
 .pink .contact h5 {
     color: #fa4b74;
@@ -134,10 +134,10 @@ a { color: #fa4b74}
     background: #FE89C5;
 }
 .pink .single-blog-detail blockquote:before {
-    background: url("../../../images/pink/pink_qoute_left.png") no-repeat center center;
+    background: url("../../img/pink_qoute_left.png") no-repeat center center;
 }
 .pink .single-blog-detail blockquote:after {
-    background: url("../../../images/pink/pink_qoute_right.png") no-repeat center center;
+    background: url("../../img/pink_qoute_right.png") no-repeat center center;
 }
 .pink .single-post-item li .fa {
     background: #fa4b74;
@@ -172,13 +172,13 @@ a { color: #fa4b74}
         font-size: 32px;
     }
     .pink .heading h3::after {
-        content: url(../../../images/pink/pink_heading_right_responsive.png);
+        content: url(../../img/pink_heading_right_responsive.png);
         width: 50px;
         height: 23px;
         right: -60px;
     }
     .pink .heading h3::before {
-        content: url(../../../images/pink/pink_heading_left_responsive.png);
+        content: url(../../img/pink_heading_left_responsive.png);
         width: 50px;
         height: 23px;
         left: -60px;
